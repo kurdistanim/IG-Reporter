@@ -1,2 +1,3 @@
-# IG-Reporter
-instagram report bot
+"# IG-ReportBot" 
+"# IG-Report-Bot" 
+"# IG-ReportBot" 
